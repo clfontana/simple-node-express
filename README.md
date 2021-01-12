@@ -1,7 +1,8 @@
 # simple-node-express
 
-This project is a simple node express server to learn the capabilities of the [express web framework](https://expressjs.com/it/)
-and the potetial of [NodeJs runtime JavaScript](https://nodejs.org/it/)
+This project is a simple node-express server to explore and understand the Request-Response pattern 
+and learn the capabilities of the [express web framework](https://expressjs.com/it/)
+and the potential of [NodeJs runtime JavaScript](https://nodejs.org/it/)
 
 Source code based on Udacity Nanodegree Cloud Developer course:
 https://github.com/udacity/cloud-developer/tree/master/course-02/exercises/udacity-c2-basic-server
